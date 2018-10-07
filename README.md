@@ -12,4 +12,10 @@ We aim to build an Android app that filters these messages and delivers only use
     * Sympathy/Support/Donation
     * Call for Help/Missing/Casualities/Damage
     * Spam
+    
+    ![alt WORKFLOW](https://github.com/rsdel2007/Naarad/blob/master/Images/Workflow.jpeg)
+    
+    
   * The filtered and categorized messages will now be sent to the concerned NGO/agency which works in the direction of the       specified category.
+
+
