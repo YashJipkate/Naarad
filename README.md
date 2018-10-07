@@ -1,9 +1,9 @@
 # Naarad
-An app for code.fun.do++ by team R.A.Y.
-Team Members:
-[Yash Jipkate](https://github.com/YashJipkate)
-[Rupal Sharma](https://github.com/rsdel2007)
-[Anshul Shrivastava](https://github.com/anshulll)
+An app for code.fun.do++ by **team R.A.Y.** <br>
+Team Members: <br>
+* [Yash Jipkate](https://github.com/YashJipkate)<br>
+* [Rupal Sharma](https://github.com/rsdel2007)<br>
+* [Anshul Shrivastava](https://github.com/anshulll)<br>
 
 ## The Problem
 As soon as the disaster strikes there is a flood of email and messages to the concerned NGO or government helpline, this makes the task even harder for the NGO or the government agencies to sort the calls and figure out the exact picture of the problem and the figures of those in distress.
