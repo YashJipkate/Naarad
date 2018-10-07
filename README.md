@@ -1,5 +1,5 @@
 # Naarad
-An app for code.fun.do++
+An app for code.fun.do++ by team R.A.Y.
 
 ## The Problem
 As soon as the disaster strikes there is a flood of email and messages to the concerned NGO or government helpline, this makes the task even harder for the NGO or the government agencies to sort the calls and figure out the exact picture of the problem and the figures of those in distress.
