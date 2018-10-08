@@ -15,7 +15,7 @@ We aim to build an Android app that filters these messages and delivers only use
   * We would then send the text message to the backend server which would apply NLP algorithms to classify the messages into     categories like:-
     * Sympathy/Support/Donation
     * Call for Help/Missing/Casualities/Damage
-    * Spam
+    * Spam/Not Useful
     
     ![alt WORKFLOW](https://github.com/rsdel2007/Naarad/blob/master/Images/Workflow.jpeg)
     
