@@ -16,6 +16,7 @@ We aim to build an Android app that filters these messages and delivers only use
     * Sympathy/Support/Donation
     * Call for Help/Missing/Casualities/Damage
     * Spam/Not Useful
+    * Caution/advice/information
     
     ![alt WORKFLOW](https://github.com/rsdel2007/Naarad/blob/master/Images/Workflow.jpeg)
     
@@ -23,7 +24,8 @@ We aim to build an Android app that filters these messages and delivers only use
   * We will form a database which will carry the information of the agencies or the organisation.<br>
   The filtered and categorized messages will now be sent to the concerned NGO/agency which works in the direction of the         specified category. <br>
   For example, if a message is classfied in the category of sympathy/support/donation then this message will be conveyed to the
-  respected organisation which may help the person as fast as possible.
+  respected organisation which may help the person as fast as possible.<br>
+  * The messages send in the category _Caution/advice/information_ will be sent to the user in the app to all the users.
  
 
 
