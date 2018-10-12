@@ -26,6 +26,8 @@ We aim to build an Android app that filters these messages and delivers only use
   For example, if a message is classified in the category of sympathy/support/donation then this message will be conveyed to the
   respected organization which may help the person as fast as possible.<br>
   * The messages send in the category _Caution/advice/information_ will be sent to the user in the app to all the users.
+  * The location of the app user will be tracked and we use this information to help him during the disaster hit nearby his location. The user will be provided with information regarding where to evacuate and safest place nearby him. 
+  * We will use facebook and twitter API for extracting the tweets related to the disaster using the hashtag and other things. After extracting all the tweets then we will use our classifier which will classify the tweets into the given categories. After that, the responsible agency or org will be conveyed about the issue.
  
 
 
