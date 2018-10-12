@@ -12,7 +12,7 @@ As soon as the disaster strikes there is a flood of email and messages to the co
 We aim to build an Android app that filters these messages and delivers only useful and crucial information to the NGO or the agency. 
   * On the client side, the app would have a simple user-friendly interface with a button to record his message or type it. 
   * If the user inputs voice message, we shall convert it to text internally. 
-  * We would then send the text message to the backend server which would apply NLP algorithms to classify the messages into     categories like:-
+  * We would then send the text message to the backend server which would apply NLP algorithms to classify the messages into categories like:-
     * Sympathy/Support/Donation
     * Call for Help/Missing/Casualities/Damage
     * Spam/Not Useful
@@ -21,11 +21,12 @@ We aim to build an Android app that filters these messages and delivers only use
     ![alt WORKFLOW](https://github.com/rsdel2007/Naarad/blob/master/Images/Workflow.jpeg)
     
     
-  * We will form a database which will carry the information of the agencies or the organisation.<br>
-  The filtered and categorized messages will now be sent to the concerned NGO/agency which works in the direction of the         specified category. <br>
-  For example, if a message is classfied in the category of sympathy/support/donation then this message will be conveyed to the
-  respected organisation which may help the person as fast as possible.<br>
+  * We will form a database which will carry the information of the agencies or the organization.<br>
+  The filtered and categorized messages will now be sent to the concerned NGO/agency which works in the direction of the specified category. <br>
+  For example, if a message is classified in the category of sympathy/support/donation then this message will be conveyed to the
+  respected organization which may help the person as fast as possible.<br>
   * The messages send in the category _Caution/advice/information_ will be sent to the user in the app to all the users.
+  * 
  
 
 
