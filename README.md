@@ -12,6 +12,7 @@ As soon as the disaster strikes there is a flood of email and messages to the co
 We aim to build an Android app that filters these messages and delivers only useful and crucial information to the NGO or the agency. 
   * On the client side, the app would have a simple user-friendly interface with a button to record his message or type it. 
   * If the user inputs voice message, we shall convert it to text internally. 
+  * The audio data received will be passed through a speech-emotion-recognition network. That network will prioritize the audio message received. Then messages with high priority will be sent first further to the classification model.
   * We would then send the text message to the backend server which would apply NLP algorithms to classify the messages into categories like:-
     * Sympathy/Support/Donation
     * Call for Help/Missing/Casualities/Damage
@@ -28,6 +29,7 @@ We aim to build an Android app that filters these messages and delivers only use
   * The messages send in the category _Caution/advice/information_ will be sent to the user in the app to all the users.
   * The location of the app user will be tracked and we use this information to help him during the disaster hit nearby his location. The user will be provided with information regarding where to evacuate and safest place nearby him. 
   * We will use facebook and twitter API for extracting the tweets related to the disaster using the hashtag and other things. After extracting all the tweets then we will use our classifier which will classify the tweets into the given categories. After that, the responsible agency or org will be conveyed about the issue.
+  * A database of the registered users will be maintained. For instance, if someone asked for missing, and that person is already registered in our database the information regarding that person will be conveyed to that person.
  
 
 
