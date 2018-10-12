@@ -26,7 +26,6 @@ We aim to build an Android app that filters these messages and delivers only use
   For example, if a message is classified in the category of sympathy/support/donation then this message will be conveyed to the
   respected organization which may help the person as fast as possible.<br>
   * The messages send in the category _Caution/advice/information_ will be sent to the user in the app to all the users.
-  * 
  
 
 
