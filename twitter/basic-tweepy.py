@@ -106,7 +106,6 @@ for i in range(loop+1):
         tidy_tweet = str(tidy_tweet)
         pred = predict(tidy_tweet)
         if(pred==1):
-            print(pred,' ',tidy_tweet)
             class1.append(tidy_tweet)
         if(pred==2):
             class2.append(tidy_tweet)
