@@ -150,4 +150,4 @@ def main():
         class4.append(summary)
     return class1,class2,class4
 
-main()
+class1,class2, class4 = main()
