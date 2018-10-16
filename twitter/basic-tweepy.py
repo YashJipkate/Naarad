@@ -94,7 +94,7 @@ def predict(x):
 query = input("Please be specific with the hashtag")
 number = "100"
 loop = int(input())
-for i in range(loop+1):
+for i in range(loop):
     class1 = [] 
     class2 = []
     class3 = []
