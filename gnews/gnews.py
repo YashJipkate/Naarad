@@ -150,4 +150,6 @@ def main():
         class4.append(summary)
     return class1,class2,class4
 
-class1,class2, class4 = main()
+key = input("Type rupal")
+if start=="rupal"
+class1,class2,class4 = main()
