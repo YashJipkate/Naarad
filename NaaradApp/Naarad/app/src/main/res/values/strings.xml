@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Naarad</string>
+    <string name="home_title">Home</string>
+    <string name="home_et_hint">Tap on the button at screen bottom to record your voice or type here</string>
+    <string name="convertBoxText">Tap on the button below to record your voice</string>
+    <string name="naarad_title">Naarad</string>
+    <string name="send_msg_btn_text">Send the message!</string>
+    <string name="register_text">Register</string>
+    <string name="hi_there">Hi There!</string>
+    <string name="emailid_text">Email ID</string>
+    <string name="password">Password</string>
+    <string name="relative_find_label">Know your near and dear ones\' whereabouts in an instant!</string>
+    <string name="relative_name">Name to find</string>
+    <string name="send_rel_name">Submit</string>
+    <string name="found_text">Found!!</string>
+    <string name="safe_text">Your status: SAFE</string>
+    <string name="danger_text">Your status: DANGER</string>
+    <string name="safe_relative">Status Reported: SAFE</string>
+    <string name="danger_relative">Status Reported: DANGER</string>
+</resources>

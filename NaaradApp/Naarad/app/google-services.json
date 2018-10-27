@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "728076227239",
+    "firebase_url": "https://naarad-b23a0.firebaseio.com",
+    "project_id": "naarad-b23a0",
+    "storage_bucket": "naarad-b23a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728076227239:android:513bcd7c79ef9662",
+        "android_client_info": {
+          "package_name": "com.example.rupal.naarad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728076227239-m1ki6mb5numlukvp7prdhpqec7j8qhga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeTsBX75Qes1PT5YEpQ1b8a9-hgIgabgs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
